@@ -1,0 +1,41 @@
+C:\Users\Cédric\AppData\Local\Temporary Projects\MS.NET Framework 3.5 offline Installer\bin\Debug\MS.NET Framework 3.5 offline Installer.exe
+C:\Users\Cédric\AppData\Local\Temporary Projects\MS.NET Framework 3.5 offline Installer\bin\Debug\MS.NET Framework 3.5 offline Installer.pdb
+C:\Users\Cédric\AppData\Local\Temporary Projects\MS.NET Framework 3.5 offline Installer\bin\Debug\MS.NET Framework 3.5 offline Installer.xml
+C:\Users\Cédric\AppData\Local\Temporary Projects\MS.NET Framework 3.5 offline Installer\obj\Debug\MS.NET_Framework_3._5_offline_Installer.Resources.resources
+C:\Users\Cédric\AppData\Local\Temporary Projects\MS.NET Framework 3.5 offline Installer\obj\Debug\MS.NET Framework 3.5 offline Installer.vbproj.GenerateResource.Cache
+C:\Users\Cédric\AppData\Local\Temporary Projects\MS.NET Framework 3.5 offline Installer\obj\Debug\MS.NET Framework 3.5 offline Installer.exe
+C:\Users\Cédric\AppData\Local\Temporary Projects\MS.NET Framework 3.5 offline Installer\obj\Debug\MS.NET Framework 3.5 offline Installer.xml
+C:\Users\Cédric\AppData\Local\Temporary Projects\MS.NET Framework 3.5 offline Installer\obj\Debug\MS.NET Framework 3.5 offline Installer.pdb
+C:\Users\Cédric\AppData\Local\Temporary Projects\MS.NET Framework 3.5 offline Installer\obj\Debug\MS.NET_Framework_3._5_offline_Installer.main.resources
+C:\Users\Cédric\AppData\Local\Temporary Projects\MS.NET Framework 3.5 offline Installer\obj\Debug\MS.NET_Framework_3._5_offline_Installer.Wait_Install.resources
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\MS.NET Framework 3.5 offline Installer\MS.NET Framework 3.5 offline Installer\obj\Debug\MS.NET_Framework_3._5_offline_Installer.main.resources
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\MS.NET Framework 3.5 offline Installer\MS.NET Framework 3.5 offline Installer\obj\Debug\MS.NET_Framework_3._5_offline_Installer.Resources.resources
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\MS.NET Framework 3.5 offline Installer\MS.NET Framework 3.5 offline Installer\obj\Debug\MS.NET_Framework_3._5_offline_Installer.Wait_Install.resources
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\MS.NET Framework 3.5 offline Installer\MS.NET Framework 3.5 offline Installer\obj\Debug\MS.NET Framework 3.5 offline Installer.vbproj.GenerateResource.Cache
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\MS.NET Framework 3.5 offline Installer\MS.NET Framework 3.5 offline Installer\bin\Debug\Microsoft.NET Framework 3.5 offline Installer.exe
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\MS.NET Framework 3.5 offline Installer\MS.NET Framework 3.5 offline Installer\bin\Debug\Microsoft.NET Framework 3.5 offline Installer.pdb
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\MS.NET Framework 3.5 offline Installer\MS.NET Framework 3.5 offline Installer\bin\Debug\Microsoft.NET Framework 3.5 offline Installer.xml
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\MS.NET Framework 3.5 offline Installer\MS.NET Framework 3.5 offline Installer\obj\Debug\Microsoft.NET Framework 3.5 offline Installer.exe
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\MS.NET Framework 3.5 offline Installer\MS.NET Framework 3.5 offline Installer\obj\Debug\Microsoft.NET Framework 3.5 offline Installer.xml
+C:\Users\Cédric\Documents\Visual Studio 2012\Projects\MS.NET Framework 3.5 offline Installer\MS.NET Framework 3.5 offline Installer\obj\Debug\Microsoft.NET Framework 3.5 offline Installer.pdb
+C:\Users\cedri\Documents\Visual Studio 2013\Projects\MS.NET Framework 3.5 offline Installer\MS.NET Framework 3.5 offline Installer\bin\Debug\Microsoft.NET Framework 3.5 offline Installer.exe.manifest
+C:\Users\cedri\Documents\Visual Studio 2013\Projects\MS.NET Framework 3.5 offline Installer\MS.NET Framework 3.5 offline Installer\bin\Debug\Microsoft.NET Framework 3.5 offline Installer.application
+C:\Users\cedri\Documents\Visual Studio 2013\Projects\MS.NET Framework 3.5 offline Installer\MS.NET Framework 3.5 offline Installer\bin\Debug\Microsoft.NET Framework 3.5 offline Installer.exe
+C:\Users\cedri\Documents\Visual Studio 2013\Projects\MS.NET Framework 3.5 offline Installer\MS.NET Framework 3.5 offline Installer\bin\Debug\Microsoft.NET Framework 3.5 offline Installer.pdb
+C:\Users\cedri\Documents\Visual Studio 2013\Projects\MS.NET Framework 3.5 offline Installer\MS.NET Framework 3.5 offline Installer\bin\Debug\Microsoft.NET Framework 3.5 offline Installer.xml
+C:\Users\cedri\Documents\Visual Studio 2013\Projects\MS.NET Framework 3.5 offline Installer\MS.NET Framework 3.5 offline Installer\bin\Debug\Costura.Fody.dll
+C:\Users\cedri\Documents\Visual Studio 2013\Projects\MS.NET Framework 3.5 offline Installer\MS.NET Framework 3.5 offline Installer\bin\Debug\MetroFramework.Design.dll
+C:\Users\cedri\Documents\Visual Studio 2013\Projects\MS.NET Framework 3.5 offline Installer\MS.NET Framework 3.5 offline Installer\bin\Debug\MetroFramework.dll
+C:\Users\cedri\Documents\Visual Studio 2013\Projects\MS.NET Framework 3.5 offline Installer\MS.NET Framework 3.5 offline Installer\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\cedri\Documents\Visual Studio 2013\Projects\MS.NET Framework 3.5 offline Installer\MS.NET Framework 3.5 offline Installer\bin\Debug\Costura.Fody.pdb
+C:\Users\cedri\Documents\Visual Studio 2013\Projects\MS.NET Framework 3.5 offline Installer\MS.NET Framework 3.5 offline Installer\obj\Debug\MS.NET_Framework_3._5_offline_Installer.About_Form.resources
+C:\Users\cedri\Documents\Visual Studio 2013\Projects\MS.NET Framework 3.5 offline Installer\MS.NET Framework 3.5 offline Installer\obj\Debug\MS.NET_Framework_3._5_offline_Installer.main.resources
+C:\Users\cedri\Documents\Visual Studio 2013\Projects\MS.NET Framework 3.5 offline Installer\MS.NET Framework 3.5 offline Installer\obj\Debug\MS.NET_Framework_3._5_offline_Installer.Resources.resources
+C:\Users\cedri\Documents\Visual Studio 2013\Projects\MS.NET Framework 3.5 offline Installer\MS.NET Framework 3.5 offline Installer\obj\Debug\MS.NET_Framework_3._5_offline_Installer.Text_Viewer.resources
+C:\Users\cedri\Documents\Visual Studio 2013\Projects\MS.NET Framework 3.5 offline Installer\MS.NET Framework 3.5 offline Installer\obj\Debug\MS.NET Framework 3.5 offline Installer.vbproj.GenerateResource.Cache
+C:\Users\cedri\Documents\Visual Studio 2013\Projects\MS.NET Framework 3.5 offline Installer\MS.NET Framework 3.5 offline Installer\obj\Debug\Microsoft.NET Framework 3.5 offline Installer.TrustInfo.xml
+C:\Users\cedri\Documents\Visual Studio 2013\Projects\MS.NET Framework 3.5 offline Installer\MS.NET Framework 3.5 offline Installer\obj\Debug\Microsoft.NET Framework 3.5 offline Installer.exe.manifest
+C:\Users\cedri\Documents\Visual Studio 2013\Projects\MS.NET Framework 3.5 offline Installer\MS.NET Framework 3.5 offline Installer\obj\Debug\Microsoft.NET Framework 3.5 offline Installer.application
+C:\Users\cedri\Documents\Visual Studio 2013\Projects\MS.NET Framework 3.5 offline Installer\MS.NET Framework 3.5 offline Installer\obj\Debug\Microsoft.NET Framework 3.5 offline Installer.exe
+C:\Users\cedri\Documents\Visual Studio 2013\Projects\MS.NET Framework 3.5 offline Installer\MS.NET Framework 3.5 offline Installer\obj\Debug\Microsoft.NET Framework 3.5 offline Installer.xml
+C:\Users\cedri\Documents\Visual Studio 2013\Projects\MS.NET Framework 3.5 offline Installer\MS.NET Framework 3.5 offline Installer\obj\Debug\Microsoft.NET Framework 3.5 offline Installer.pdb
